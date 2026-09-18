@@ -1,0 +1,40 @@
+.headerImg{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    margin: 0 auto;
+}
+
+.headerImg #headerImage{
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+.headerImg span{
+    font-weight: bold;
+    font-family:cursive;
+    color: #F87597;
+    font-size: 24px;
+    padding: 10px;
+}
+
+.headerImg #line{
+    background-color: #F87597;
+    width: 100%;
+}
+.headerImg #cover{
+    display: block;
+    max-width: 400px;     
+    width: 100%;         
+    height: auto;         
+    margin: 20px auto;    
+}
+
+.headerImg h3{
+    font-weight: bold;
+    font-family:cursive;
+    color: #F87597;
+    font-size: 26px;
+}

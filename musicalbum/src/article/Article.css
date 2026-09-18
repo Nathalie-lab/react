@@ -1,0 +1,30 @@
+.songs{
+    margin: 10px auto;
+    border: 2px solid #F87597;
+    width: 50%;
+    border-radius: 8px; 
+    padding: 10px;      
+    transition: all 0.3s ease;
+}
+
+#duration{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    cursor: pointer;
+}
+
+#duration:hover{
+    color: #F87597;
+}
+
+.songs audio {
+    display: none; 
+    width: 100%;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.activePlayer audio {
+    display: block;
+}

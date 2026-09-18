@@ -1,0 +1,49 @@
+{
+    "albumName": "MAP OF THE SOUL: PERSONA",
+    "artist": "BTS",
+    "year": 2019,
+    "listOfTracks": [
+        {
+            "id": 1,
+            "title": "Intro : Persona",
+            "duration": "2:51",
+            "audio": "/songs/BTS - Intro_ Persona (hitmo.net).mp3"
+        },
+        {
+            "id": 2,
+            "title": "Boy With Luv",
+            "duration": "3:49",
+            "audio": "/songs/BTS, Halsey - Boy With Luv (hitmo.net).mp3"
+        },
+        {
+            "id": 3,
+            "title": "MikroKosmos",
+            "duration": "3:44",
+            "audio": "/songs/BTS - Mikrokosmos (hitmo.net).mp3"
+        },
+        {
+            "id": 4,
+            "title": "Make It Right",
+            "duration": "3:46",
+            "audio": "/songs/BTS - Make It Right (hitmo.net).mp3"
+        },
+        {
+            "id": 5,
+            "title": "Home",
+            "duration": "3:54",
+            "audio": "/songs/BTS - Home (hitmo.net).mp3"
+        },
+        {
+            "id": 6,
+            "title": "Jamais Vu",
+            "duration": "3:47",
+            "audio": "/songs/BTS - Jamais Vu (hitmo.net).mp3"
+        },
+        {
+            "id": 7,
+            "title": "Dionysus",
+            "duration": "4:09",
+            "audio": "/songs/BTS - Dionysus (hitmo.net).mp3"
+        }
+    ]
+}
